@@ -157,7 +157,7 @@ class _HomePageWidgetState extends State<HomePageWidget>
                   child: Align(
                     alignment: AlignmentDirectional(0.2, 0.0),
                     child: Text(
-                      'Good morning, \nHow can i help  you ? ',
+                      'Hello world, \nHow can i help  you ? ',
                       style: FlutterFlowTheme.of(context).bodyText1.override(
                             fontFamily: 'Poppins',
                             color: Color(0xFF093558),
